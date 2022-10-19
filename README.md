@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Mansur</h1>
 <h3 align="center">A passionate flutter developer from Uzbekistan</h3>
 
-<p align="left"> <img src="https://instagram.com/mansur.4795 /> </p>
+<!-- <p align="left"> <img src="https://instagram.com/mansur.4795 /> </p> -->
 
 <p align="left"> <a href="" alt="" /></a> </p>
 
