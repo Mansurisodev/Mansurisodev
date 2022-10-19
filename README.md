@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi, I'm Mansur 👋 <img src="https://media3.giphy.com/media/jKkqqRlfzajljKVV5p/giphy.gif?cid=ecf05e473qpohyqtsta1ehx2f07j9vnegapln1qcdjyw5anv&rid=giphy.gif&ct=g" width="30">
 
 <!--
 **Mansurisodev/Mansurisodev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
