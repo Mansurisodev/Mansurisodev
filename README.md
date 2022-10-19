@@ -4,7 +4,7 @@
 
 ### Languages and tool I work with:
 
-<code>img src="https://www.kindpng.com/picc/m/355-3557482_flutter-logo-png-transparent-png.png" height="25px"></code>
+ <img src="https://media4.giphy.com/media/gdYlLuOeY13P8rzgK0/giphy.gif?cid=ecf05e47l7j6158dv3xxfnuxh1eh3nr61r8dwxfz7uhfrc9c&rid=giphy.gif&ct=s" width="27px">
 
 Here are some ideas to get you started:
 
