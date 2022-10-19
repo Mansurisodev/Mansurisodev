@@ -4,12 +4,18 @@
 
 ### Languages and tool I work with:
 
- <img src="https://blog.expertsoftwareteam.com/wp-content/uploads/2019/01/flutter12.png" width="27px">
+ <code><img src="https://blog.expertsoftwareteam.com/wp-content/uploads/2019/01/flutter12.png" width="35px"></code>
+ <code><img src="https://blog.expertsoftwareteam.com/wp-content/uploads/2019/01/flutter12.png" width="35px"></code>
+ <code><img src="https://blog.expertsoftwareteam.com/wp-content/uploads/2019/01/flutter12.png" width="35px"></code>
+ <code><img src="https://blog.expertsoftwareteam.com/wp-content/uploads/2019/01/flutter12.png" width="35px"></code>
+ <code><img src="https://blog.expertsoftwareteam.com/wp-content/uploads/2019/01/flutter12.png" width="35px"></code>
+ <code><img src="https://blog.expertsoftwareteam.com/wp-content/uploads/2019/01/flutter12.png" width="35px"></code>
+ <code><img src="https://blog.expertsoftwareteam.com/wp-content/uploads/2019/01/flutter12.png" width="35px"></code>
 
 Here are some ideas to get you started:
 
 - 🔭 I’m not currently working on ...
-- 🌱 I’m currently learning ...
+- 🌱 I’m currently learning ... 
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
