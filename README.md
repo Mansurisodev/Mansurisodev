@@ -4,7 +4,7 @@
 
 ### Languages and tool I work with:
 
- <img src="https://media4.giphy.com/media/gdYlLuOeY13P8rzgK0/giphy.gif?cid=ecf05e47l7j6158dv3xxfnuxh1eh3nr61r8dwxfz7uhfrc9c&rid=giphy.gif&ct=s" width="27px">
+ <img src="https://blog.expertsoftwareteam.com/wp-content/uploads/2019/01/flutter12.png" width="27px">
 
 Here are some ideas to get you started:
 
