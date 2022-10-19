@@ -14,7 +14,7 @@
 - 📍 &nbsp; Current location:Tashkent, Uzbekistan
 - 💬 Ask me about anything, I' am happy to help
 - 📫 How to reach me: ...
-  -👨🏻‍💻 Instagram:[@mansur.4795](https://instagram.com/mansur.4795)
+  👨🏻‍💻 Instagram:[@mansur.4795](https://instagram.com/mansur.4795)
   
  
 Here are some ideas to get you started:
