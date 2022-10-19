@@ -1,4 +1,4 @@
-### Hi, I'm Mansur <img src="https://media4.giphy.com/media/w1OBpBd7kJqHrJnJ13/giphy.gif?cid=ecf05e47da1egjhkjh36r02vhdb44wucgahzdkzgw3bcm30r&rid=giphy.gif&ct=s width="30">
+### Hi, I'm Mansur <img src="https://media4.giphy.com/media/w1OBpBd7kJqHrJnJ13/giphy.gif?cid=ecf05e47da1egjhkjh36r02vhdb44wucgahzdkzgw3bcm30r&rid=giphy.gif&ct=s>
 
 
 
