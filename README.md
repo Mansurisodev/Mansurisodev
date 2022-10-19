@@ -14,6 +14,7 @@
 - 📍 &nbsp; Current location:Tashkent, Uzbekistan
 - 💬 Ask me about anything, I' am happy to help
 - 📫 How to reach me: ...
+ <br />
   -👨🏻‍💻 Instagram:[@donik12342](https://instagram.com/donik12342)
   -👨🏻‍💻 Telegram:[@mobil_devaloper](https://telegram.com/mobil_devaloper)
  
