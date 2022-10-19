@@ -1,10 +1,6 @@
-### Hi, I'm Mansur 👋 <img src="https://media3.giphy.com/media/jKkqqRlfzajljKVV5p/giphy.gif?cid=ecf05e473qpohyqtsta1ehx2f07j9vnegapln1qcdjyw5anv&rid=giphy.gif&ct=g" width="30">
-<span class="wave">👋</span>
+### Hi, I'm Mansur <img src="https://media4.giphy.com/media/w1OBpBd7kJqHrJnJ13/giphy.gif?cid=ecf05e47da1egjhkjh36r02vhdb44wucgahzdkzgw3bcm30r&rid=giphy.gif&ct=s width="30">
 
-<h1>Inline hands <span class="wave">👋🏾</span> work also!</h1>
 
-<!--
-**Mansurisodev/Mansurisodev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
